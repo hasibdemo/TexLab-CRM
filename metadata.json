@@ -1,0 +1,6 @@
+{
+  "name": "TexTrade CRM",
+  "description": "Internal CRM for textile waste cloth and yarn import/export trading with contact management, company directory, and activity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
